@@ -1,0 +1,105 @@
+.banner{
+
+    position: absolute;
+    width: 533px;
+    height: 351px;
+    left: 52px;
+    top: 36px;
+
+
+
+}
+
+
+
+.skills{
+
+    position: absolute;
+width: 960px;
+height: 424px;
+left: 0px;
+top: 525px;
+
+
+
+}
+
+.services{
+
+    position: absolute;
+    width: 960px;
+    height: 424px;
+    left: 0px;
+    top: 949px;
+    
+
+
+}
+
+.h2banner{
+    position: absolute;
+width: 327px;
+height: 84px;
+left: 68px;
+top: 286px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+.h1banner{
+    
+position: absolute;
+width: 211px;
+height: 75px;
+left: 374px;
+top: 36px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+
+
+
+color: #FFFFFF;
+}
+
+.h2skills{
+
+    position: absolute;
+width: 144px;
+height: 42px;
+left: 408px;
+top: 552px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+.h2Servicios{
+
+    position: absolute;
+width: 151px;
+height: 42px;
+left: 404px;
+top: 980px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
