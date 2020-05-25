@@ -106,11 +106,29 @@ color: #FFFFFF;
 
 .portfolio{
 
-    position: absolute;
+position: absolute;
 width: 960px;
 height: 424px;
 left: 0px;
 top: 1373px;
 
 
+}
+
+.clients{
+
+    position: absolute;
+width: 960px;
+height: 258px;
+left: -1px;
+top: 1797px;
+}
+
+.contact{
+
+    position: absolute;
+width: 960px;
+height: 578px;
+left: 0px;
+top: 2054px;
 }
